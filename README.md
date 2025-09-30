@@ -1,32 +1,43 @@
-Virtual Art Gallery
+# Virtual Art Gallery
 
-This is a simple HTML-based Virtual Art Gallery webpage that showcases at least five unique artworks including paintings, digital art, and photographs. The page is fully created using HTML only—no CSS or JavaScript is used.
+Welcome to the **Virtual Art Gallery**! This project showcases a simple and elegant web page displaying five unique artworks, including paintings, digital art, and photographs.
 
-Features
+---
 
-Main Gallery Section:
-The page starts with a title and a short welcome paragraph introducing the virtual art gallery.
+## Features
 
-Navigation Links:
-Quick links allow users to jump directly to each artwork section:
+- **Main Title & Introduction**  
+  A welcoming header with a brief description of the gallery.
 
+- **Gallery Navigation**  
+  Quick links to each artwork section for easy browsing.
 
+- **Artworks**  
+  Five distinct artworks displayed with images and detailed descriptions:
+  - Sunset Dreams (Watercolor)
+  - Flower (Digital Art)
+  - Mountain Glow (Gouache/Watercolor)
+  - Space Nights (Photography)
+  - Modern Art (Photography)
 
-Artwork Sections:
-Each artwork has its own section with:
+- **Additional Sections**  
+  - Step-by-step guide on how to create your own artwork (ordered list)  
+  - List of materials and techniques used (unordered list)  
+  - Comparison table summarizing the artworks, mediums, and years.
 
-Heading (<h2>)
+- **External Links**  
+  Link to The Met Museum for users interested in famous artworks.
 
-Image (<img> with width 400px and height 300px)
+---
 
-Description highlighting medium, style, and theme
+## Usage
 
+1. Open the `index.html` file in any modern web browser.
+2. Navigate through the gallery using the quick links or scroll to explore.
+3. Enjoy reading about different art mediums and techniques.
+4. Use the steps provided to try creating your own artwork!
 
-Materials & Techniques:
-An unordered list outlines common materials used in different artworks such as oil paints, watercolors, digital tablets, cameras, and brushes.
+---
 
-Comparison Table:
-A table compares all five artworks with details on Medium and Year of creation.
+## File Structure
 
-Notes on Images:
-All images are added directly in the HTML file, no external image links are used.
